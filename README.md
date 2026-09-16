@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System
 
 A full-stack student administration web app built with Django REST Framework and React.
@@ -71,3 +72,6 @@ This project was validated with:
 
 - Django test suite: passed
 - Frontend production build: passed
+=======
+# student-management-system
+>>>>>>> becc5f380d61fe54dc1c4e218c158a7461792e72
